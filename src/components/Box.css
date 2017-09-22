@@ -1,0 +1,13 @@
+ .box{
+	display: inline-block;
+	background: #000;
+	color: #FFF;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	transition: all .05s;
+	cursor: pointer;
+ }
+ .box:hover{
+	background: #2196F3;
+ }
